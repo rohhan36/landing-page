@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  font-family: "Mulish", sans-serif;
+}
+
+body {
+  background-color: rgb(232, 252, 255);
+}
+
+.aboutImg-bg {
+  background-color: rgb(232, 252, 255);
+}
